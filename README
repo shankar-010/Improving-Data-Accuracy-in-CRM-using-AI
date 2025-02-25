@@ -26,18 +26,14 @@ Flask/Django (Web Dashboard)
 Pandas & NumPy (Data Handling)
 📂 Installation & Setup
 Clone the repository:
-bash
-Copy
-Edit
+
 git clone https://github.com/your-repo/CRM-Data-Accuracy-AI.git
 cd CRM-Data-Accuracy-AI
 Install dependencies:
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the application:
-bash
+
 Copy
 Edit
 python app.py
