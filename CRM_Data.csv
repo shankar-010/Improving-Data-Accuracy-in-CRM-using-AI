@@ -1,0 +1,51 @@
+Customer_ID,Name,Email,Phone,Purchase_Amount,Last_Purchase_Date,Data_Accuracy
+CUST1000,Jo Smith,juliegarcia@alexander.biz,567.838.9880x78617,445.12,2024-05-11,Incorrect
+CUST1001,David Jones,lloydtricia@jennings.com,1599316012,793.83,2024-10-23,Incorrect
+CUST1002,Melanie Bishop,williamsphyllis@contreras.com,818.471.1403x33275,391.1,2024-07-01,Incorrect
+CUST1003,Kyle Rojas,kaitlyn99@knapp-collins.com,356.528.1434x3895,746.44,2024-11-06,Incorrect
+CUST1004,Jessica Lopez,matthewramos@yahoo.com,(284)986-1795x713,576.26,2024-04-12,Correct
+CUST1005,Ryan Perkins,alexandrabutler@gmail.com,546.297.9403x05866,712.58,2024-07-21,Correct
+CUST1006,April Waller,leeholly@hotmail.com,001-796-378-0322x56043,492.01,2024-05-16,Correct
+CUST1007,Antonio Bridges DVM,danielford@yahoo.com,(597)039-5837,766.99,2024-03-08,Correct
+CUST1008,Adrian Walton,andrea57@hendrix.com,782-654-6864x6016,756.16,2025-01-18,Correct
+CUST1009,Jeffrey Strickland,mejiakrystal@hotmail.com,(270)398-4839x349,547.25,2024-06-29,Incorrect
+CUST1010,James Roman,gary61@gmail.com,9724886132,204.72,2024-10-22,Incorrect
+CUST1011,Sandra Marsh,mjackson@pacheco.com,2639564173,769.04,2024-06-30,Correct
+CUST1012,Michael Olson,williamsmegan@schneider-adams.net,+1-565-668-6916x13241,485.56,2025-01-10,Incorrect
+CUST1013,Michael Mason,ericpatterson@everett.biz,(960)692-2968x6786,672.57,2024-08-16,Incorrect
+CUST1014,Erica Brooks,marcus02@lewis.biz,338.131.9330,213.34,2024-07-10,Correct
+CUST1015,Billy Bolton,stacydavis@matthews.com,001-247-915-0709x474,395.3,2024-06-04,Correct
+CUST1016,Justin Brown,barry66@rivera-barnes.net,950.132.1600,870.26,2024-07-27,Incorrect
+CUST1017,Elizabeth Moore,rlucas@yahoo.com,(577)581-9649,853.35,2024-11-16,Incorrect
+CUST1018,Adam Lewis,nwest@monroe-wade.com,001-025-648-0311,816.27,2025-02-05,Correct
+CUST1019,Rachel Cummings,sgarcia@walter.biz,+1-748-412-2622,589.36,2024-09-01,Correct
+CUST1020,Glen Mercado,mmcclure@yahoo.com,+1-074-591-8409x8874,385.75,2024-05-20,Incorrect
+CUST1021,Kendra Pruitt,seanhernandez@yahoo.com,+1-723-423-0729x2291,322.49,2024-05-19,Correct
+CUST1022,Andrew Smith,clarktracy@yahoo.com,326-498-9391,689.25,2024-04-12,Incorrect
+CUST1023,Rebekah Roth,gabriellewilliams@davis-jones.info,+1-355-514-0246,896.7,2024-05-31,Incorrect
+CUST1024,Jennifer Shannon,johnwilliams@gmail.com,549-995-7222,458.04,2024-03-24,Correct
+CUST1025,Stephanie Gray,john81@henry-morgan.info,616.042.3626,37.21,2025-01-29,Incorrect
+CUST1026,Kimberly Taylor,maryhudson@gmail.com,+1-857-338-0840x578,391.07,2024-03-25,Correct
+CUST1027,Stephanie Perez,hjohnson@gonzalez.net,2053160112,261.72,2024-12-01,Incorrect
+CUST1028,Dr. Christine Montes,lewismichael@moreno.com,9041393655,379.85,2024-02-29,Correct
+CUST1029,Deanna Burch,rsantiago@hotmail.com,930.973.4562x0611,380.84,2024-03-02,Incorrect
+CUST1030,Paula Garcia,perrydavid@gmail.com,928.836.5669,55.28,2024-09-24,Incorrect
+CUST1031,Jonathan Diaz,mendezashley@yahoo.com,(759)580-2508x542,102.07,2025-01-17,Incorrect
+CUST1032,Bradley Norman,anthonycontreras@hotmail.com,412.332.9615,448.94,2024-05-27,Incorrect
+CUST1033,Glen Hernandez MD,anthony17@mills-alexander.com,(400)042-8946x9161,564.34,2024-08-11,Incorrect
+CUST1034,Christine Valencia,bthompson@williamson.com,2786707541,586.67,2024-05-05,Incorrect
+CUST1035,Robert Murillo,duncanadam@hotmail.com,(818)045-0884x811,856.84,2024-10-31,Correct
+CUST1036,Kimberly Castro,aflores@price-johnson.com,(902)082-9163x46977,931.77,2024-11-13,Incorrect
+CUST1037,Ashlee Vasquez,rray@gmail.com,397-156-7015,563.31,2024-04-07,Incorrect
+CUST1038,John Thompson,sbaker@harris-williams.biz,(167)637-4728x806,810.44,2024-10-06,Incorrect
+CUST1039,Tyrone Smith,angela78@rhodes.org,(624)928-0473x85311,320.02,2024-04-10,Correct
+CUST1040,Stephen White,anorris@carter.org,(272)568-2085,386.82,2024-06-26,Correct
+CUST1041,Jason Rios,zachary06@garner.net,471.134.6810x528,518.98,2024-03-31,Incorrect
+CUST1042,Bob Ward,taylornichols@hotmail.com,(955)566-2501,883.06,2024-05-17,Incorrect
+CUST1043,Jonathan Chung,kaitlynbarrett@cameron.com,491.332.2753,884.1,2024-12-10,Incorrect
+CUST1044,Stephanie Stewart,mpacheco@martin.com,6138207225,812.13,2024-11-09,Incorrect
+CUST1045,Brian Williams,michael28@gmail.com,465-958-8090x725,726.68,2024-09-26,Correct
+CUST1046,Gregory Blake,shane05@brown.com,934-082-0492x8190,128.42,2024-09-12,Incorrect
+CUST1047,Chelsea Castro,fdavis@boone.com,(824)031-7359,679.37,2024-08-28,Correct
+CUST1048,Brian Downs,ruth03@yahoo.com,001-268-446-4787x550,78.9,2024-11-20,Correct
+CUST1049,Jennifer Medina,porterconnie@lara.com,479-730-3878x0324,166.67,2024-03-31,Incorrect

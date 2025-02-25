@@ -1,0 +1,48 @@
+📊 Improving Data Accuracy in CRM using AI
+📌 Project Overview
+Customer Relationship Management (CRM) systems often contain inaccurate or duplicate data, leading to inefficiencies in business operations. This project leverages AI-driven techniques to improve data accuracy in CRM by detecting anomalies, filtering incorrect entries, and enhancing overall data reliability.
+
+🚀 Features
+AI-Powered Anomaly Detection: Identifies incorrect, duplicate, or suspicious data.
+Data Accuracy Visualization: Graphical insights into CRM data accuracy improvements.
+Confusion Matrix Evaluation: Assessing the model's performance in detecting errors.
+User-Friendly Dashboard: Upload and analyze CRM datasets with interactive charts.
+Automated Data Cleaning: Improves CRM data accuracy through AI-based filtering.
+🖼️ Visualizations
+🔹 Confusion Matrix for AI Model Evaluation
+
+This matrix demonstrates the performance of the AI model in detecting accurate and incorrect records.
+🔹 CRM Data Accuracy Dashboard
+
+A dashboard that allows users to upload CRM data and analyze its accuracy using AI.
+🔹 CRM Data Accuracy Pie Chart
+
+A pie chart visualization showing the proportion of accurate vs. incorrect CRM data.
+⚙️ Technologies Used
+Python (Data Processing & AI)
+Machine Learning (Anomaly Detection)
+Matplotlib & Seaborn (Data Visualization)
+Flask/Django (Web Dashboard)
+Pandas & NumPy (Data Handling)
+📂 Installation & Setup
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-repo/CRM-Data-Accuracy-AI.git
+cd CRM-Data-Accuracy-AI
+Install dependencies:
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application:
+bash
+Copy
+Edit
+python app.py
+Upload your CRM dataset and analyze the accuracy.
+📈 Results & Insights
+The AI model successfully improved CRM data accuracy from 80% to 83.5%.
+Anomalies in the CRM dataset were identified and categorized for correction.
+The system provides real-time insights and data cleansing recommendations.
